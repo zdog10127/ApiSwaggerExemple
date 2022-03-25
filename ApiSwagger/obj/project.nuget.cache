@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fiylq3W6eFuwiemoeFpFsKmtU9sG9GwiuPhUbPGEwuTEQ9KbSctr3bIB62Quk0KZhZpIsWgTCHsZQsHCtnvAXQ==",
+  "dgSpecHash": "lonsC4x7ndYHiSEXiNNr50cUW1g/OIMYmr4rU9acfYPjx/ATYZSMzlV1ywjlle/H7Qemi7Q6Mbd+b+iCJZNYNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.santos\\source\\repos\\ApiSwagger\\ApiSwagger\\ApiSwagger.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.santos\\Documents\\Projects\\ApiSwaggerExemple\\ApiSwagger\\ApiSwagger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel.santos\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gabriel.santos\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
